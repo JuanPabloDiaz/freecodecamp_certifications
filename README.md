@@ -24,16 +24,16 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Legacy Front End | [Certified in 2024](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)
 
-- [Build a Personal Portfolio Webpage](./LegacyFrontEnd)
-- [Build a Random Quote Machine](./LegacyFrontEnd)
-- [Build a 25 + 5 Clock](./LegacyFrontEnd)
-- [Build a JavaScript Calculator](./LegacyFrontEnd)
-- [Show the Local Weather](./LegacyFrontEnd)
-- [Use the TwitchTV JSON API](./LegacyFrontEnd)
-- [Build a Tribute Page](./LegacyFrontEnd)
-- [Build a Wikipedia Viewer](./LegacyFrontEnd)
-- [Build a Tic Tac Toe Game](./LegacyFrontEnd)
-- [Build a Simon Game](./LegacyFrontEnd)
+- [Build a Personal Portfolio Webpage](https://github.com/JuanPabloDiaz/freecodecamp) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev) ⚡ [Demo B](https://codepen.io/1diazdev/pen/EzNaQV)
+- [Build a Random Quote Machine](https://github.com/JuanPabloDiaz/random-quote-generator) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Quote) ⚡ [Demo B](https://quote.jpdiaz.dev)
+- [Build a 25 + 5 Clock]() ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Pomodoro) ⚡ [Demo B](https://25.jpdiaz.dev)
+- [Build a JavaScript Calculator](https://github.com/JuanPabloDiaz/calculator) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/calculator) ⚡ [Demo B](https://math.jpdiaz.dev)
+- [Show the Local Weather](https://weather.jpdiaz.dev/) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Weather) ⚡ [Demo B](https://github.com/JuanPabloDiaz/weather)
+- [Use the TwitchTV JSON API](https://twitch.jpdiaz.dev/) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Twitch) ⚡ [Demo B](https://github.com/JuanPabloDiaz/twitch)
+- [Build a Wikipedia Viewer](https://github.com/JuanPabloDiaz/wikipediaViewer) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Wikipedia) ⚡ [Demo B](https://wiki.jpdiaz.dev)
+- [Build a Tic Tac Toe Game](https://github.com/JuanPabloDiaz/ticTacToe) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/TicTacToe) ⚡ [Demo B](https://tictactoe.jpdiaz.dev)
+- [Build a Simon Game](https://github.com/JuanPabloDiaz/simonGame) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Simon) ⚡ [Demo B](https://simon.jpdiaz.dev)
+- [Build a Tribute Page ](https://codepen.io/1diazdev/pen/wJWJEZ?editors=1000)
 
 ### Scientific Computing with Python | [Certified in 2025](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7)
 
@@ -45,7 +45,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 <!-- ### Data Analysis with Python
 - [Mean-Variance-Standard Deviation Calculator](./DataAnalysiswithPython)
-- [Demographic Data Analyzer](./DataAnalysiswithPython)
+- [Demo graphic Data Analyzer](./DataAnalysiswithPython)
 - [Medical Data Visualizer](./DataAnalysiswithPython)
 - [Page View Time Series Visualizer](./DataAnalysiswithPython)
 - [Sea Level Predictor](./DataAnalysiswithPython) -->
