@@ -24,16 +24,16 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Legacy Front End | [Certified in 2024](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)
 
-- [Build a Personal Portfolio Webpage](./LegacyLegacyFrontEnd)
-- [Build a Random Quote Machine](./LegacyLegacyFrontEnd)
-- [Build a 25 + 5 Clock](./LegacyLegacyFrontEnd)
-- [Build a JavaScript Calculator](./LegacyLegacyFrontEnd)
-- [Show the Local Weather](./LegacyLegacyFrontEnd)
-- [Use the TwitchTV JSON API](./LegacyLegacyFrontEnd)
-- [Build a Tribute Page](./LegacyLegacyFrontEnd)
-- [Build a Wikipedia Viewer](./LegacyLegacyFrontEnd)
-- [Build a Tic Tac Toe Game](./LegacyLegacyFrontEnd)
-- [Build a Simon Game](./LegacyLegacyFrontEnd)
+- [Build a Personal Portfolio Webpage](./LegacyFrontEnd)
+- [Build a Random Quote Machine](./LegacyFrontEnd)
+- [Build a 25 + 5 Clock](./LegacyFrontEnd)
+- [Build a JavaScript Calculator](./LegacyFrontEnd)
+- [Show the Local Weather](./LegacyFrontEnd)
+- [Use the TwitchTV JSON API](./LegacyFrontEnd)
+- [Build a Tribute Page](./LegacyFrontEnd)
+- [Build a Wikipedia Viewer](./LegacyFrontEnd)
+- [Build a Tic Tac Toe Game](./LegacyFrontEnd)
+- [Build a Simon Game](./LegacyFrontEnd)
 
 ### Scientific Computing with Python | [Certified in 2025](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7)
 
