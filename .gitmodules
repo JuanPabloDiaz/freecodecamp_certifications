@@ -1,19 +1,20 @@
-# # Scientific Computing with Python
-# [submodule "Certifications/Scientific Computing with Python/Arithmetic Formatter"]
-# 	path = Certifications/Scientific Computing with Python/Arithmetic Formatter
-# 	url = https://github.com/JuanPabloDiaz/freeCodeCamp_Certifications/Scientific Computing with Python/arithmetic-formatter.git
-# [submodule "Certifications/Scientific Computing with Python/Time Calculator"]
-# 	path = Certifications/Scientific Computing with Python/Time Calculator
-# 	url = https://github.com/JuanPabloDiaz/time-calculator.git
-# [submodule "Certifications/Scientific Computing with Python/Budget App"]
-# 	path = Certifications/Scientific Computing with Python/Budget App
-# 	url = https://github.com/JuanPabloDiaz/budget-app.git
-# [submodule "Certifications/Scientific Computing with Python/Polygon Area Calculator"]
-# 	path = Certifications/Scientific Computing with Python/Polygon Area Calculator
-# 	url = https://github.com/JuanPabloDiaz/polygon-area-calculator.git
-# [submodule "Certifications/Scientific Computing with Python/Probability Calculator"]
-# 	path = Certifications/Scientific Computing with Python/Probability Calculator
-# 	url = https://github.com/JuanPabloDiaz/probability-calculator.git
+
+# # Legacy Front End
+[submodule "Legacy Certifications/LegacyFrontEnd/Show the Local Weather"]
+	path = Legacy Certifications/Legacy Front End/Show the Local Weather
+	url = https://github.com/JuanPabloDiaz/weather.git
+[submodule "Legacy Certifications/Legacy Front End/Use the TwitchTV JSON API"]
+	path = Legacy Certifications/Legacy Front End/Use the TwitchTV JSON API
+	url = https://github.com/JuanPabloDiaz/twitch.git
+[submodule "Legacy Certifications/Legacy Front End/Build a Wikipedia Viewer"]
+	path = Legacy Certifications/Legacy Front End/Build a Wikipedia Viewer
+	url = https://github.com/JuanPabloDiaz/wikipediaViewer.git
+[submodule "Legacy Certifications/Legacy Front End/Build a Tic Tac Toe Game"]
+	path = Legacy Certifications/Legacy Front End/Build a Tic Tac Toe Game
+	url = https://github.com/JuanPabloDiaz/ticTacToe.git
+[submodule "Legacy Certifications/Legacy Front End/Build a Simon Game"]
+	path = Legacy Certifications/Legacy Front End/Build a Simon Game
+	url = https://github.com/JuanPabloDiaz/simonGame.git
 
 # # Responsive Web Design
 # [submodule "Certifications/Responsive Web Design/Build a Survey Form"]
@@ -100,19 +101,3 @@
 # 	path = Certifications/Machine Learning with Python/Neural Network SMS Text Classifier
 # 	url = https://github.com/JuanPabloDiaz/neural-network-SMS-text-classifier.git
 
-# # Legacy Front End
-# [submodule "Legacy Certifications/Legacy Front End/Show the Local Weather"]
-# 	path = Legacy Certifications/Legacy Front End/Show the Local Weather
-# 	url = https://github.com/JuanPabloDiaz/local-weather.git
-# [submodule "Legacy Certifications/Legacy Front End/Use the TwitchTV JSON API"]
-# 	path = Legacy Certifications/Legacy Front End/Use the TwitchTV JSON API
-# 	url = https://github.com/JuanPabloDiaz/twitch-JSON-API.git
-# [submodule "Legacy Certifications/Legacy Front End/Build a Wikipedia Viewer"]
-# 	path = Legacy Certifications/Legacy Front End/Build a Wikipedia Viewer
-# 	url = https://github.com/JuanPabloDiaz/wikipedia-viewer.git
-# [submodule "Legacy Certifications/Legacy Front End/Build a Tic Tac Toe Game"]
-# 	path = Legacy Certifications/Legacy Front End/Build a Tic Tac Toe Game
-# 	url = https://github.com/JuanPabloDiaz/tic-tac-toe-game.git
-# [submodule "Legacy Certifications/Legacy Front End/Build a Simon Game"]
-# 	path = Legacy Certifications/Legacy Front End/Build a Simon Game
-# 	url = https://github.com/JuanPabloDiaz/simon-game.git

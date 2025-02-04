@@ -16,11 +16,11 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Front End Development Libraries | [Certified in 2023](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries)
 
-- [Build a Random Quote Machine](./FrontEndDevelopmentLibraries)
-- [Build a Markdown Previewer](./FrontEndDevelopmentLibraries)
-- [Build a Drum Machine](./FrontEndDevelopmentLibraries)
-- [Build a JavaScript Calculator](./FrontEndDevelopmentLibraries)
-- [Build a 25 + 5 Clock](./FrontEndDevelopmentLibraries)
+- [Build a Random Quote Machine](./FrontEndDevLibraries)
+- [Build a Markdown Previewer](./FrontEndDevLibraries)
+- [Build a Drum Machine](./FrontEndDevLibraries)
+- [Build a JavaScript Calculator](./FrontEndDevLibraries)
+- [Build a 25 + 5 Clock](./FrontEndDevLibraries)
 
 ### Legacy Front End | [Certified in 2024](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)
 
@@ -40,7 +40,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Arithmetic Formatter](./ScientificComputingWithPython/ArithmeticFormatter)
 - [Time Calculator](./ScientificComputingWithPython/TimeCalculator)
 - [Budget App](./ScientificComputingWithPython/BudgetApp)
-- [Polygon Area Calculator](./ScientificComputingwithPython/PolygonAreaCalculator/)
+- [Polygon Area Calculator](./ScientificComputingwithPython/PolygonAreaCalculator)
 - [Probability Calculator](./ScientificComputingWithPython/ProbabilityCalculator)
 
 <!-- ### Data Analysis with Python
