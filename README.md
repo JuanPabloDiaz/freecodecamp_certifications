@@ -1,4 +1,4 @@
-# freeCodeCamp Certification Projects
+# FreeCodeCamp Certification Projects
 
 This repository contains all the projects completed to earn freeCodeCamp certifications. Each folder corresponds to a specific certification and includes a link to the related project repos.
 
