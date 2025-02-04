@@ -8,58 +8,58 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Responsive Web Design | [Certified in 2022](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design)
 
-- [Build a Survey Form](./Certifications/Responsive%20Web%20Design)
-- [Build a Tribute Page](./Certifications/Responsive%20Web%20Design)
-- [Build a Technical Documentation Page](./Certifications/Responsive%20Web%20Design)
-- [Build a Product Landing Page](./Certifications/Responsive%20Web%20Design)
-- [Build a Personal Portfolio Webpage](./Certifications/Responsive%20Web%20Design)
+- [Build a Survey Form](./ResponsiveWebDesign)
+- [Build a Tribute Page](./ResponsiveWebDesign)
+- [Build a Technical Documentation Page](./ResponsiveWebDesign)
+- [Build a Product Landing Page](./ResponsiveWebDesign)
+- [Build a Personal Portfolio Webpage](./ResponsiveWebDesign)
 
 ### Front End Development Libraries | [Certified in 2023](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries)
 
-- [Build a Random Quote Machine](./Certifications/Front%20End%20Development%20Libraries)
-- [Build a Markdown Previewer](./Certifications/Front%20End%20Development%20Libraries)
-- [Build a Drum Machine](./Certifications/Front%20End%20Development%20Libraries)
-- [Build a JavaScript Calculator](./Certifications/Front%20End%20Development%20Libraries)
-- [Build a 25 + 5 Clock](./Certifications/Front%20End%20Development%20Libraries)
+- [Build a Random Quote Machine](./FrontEndDevelopmentLibraries)
+- [Build a Markdown Previewer](./FrontEndDevelopmentLibraries)
+- [Build a Drum Machine](./FrontEndDevelopmentLibraries)
+- [Build a JavaScript Calculator](./FrontEndDevelopmentLibraries)
+- [Build a 25 + 5 Clock](./FrontEndDevelopmentLibraries)
 
 ### Legacy Front End | [Certified in 2024](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)
 
-- [Build a Personal Portfolio Webpage](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a Random Quote Machine](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a 25 + 5 Clock](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a JavaScript Calculator](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Show the Local Weather](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Use the TwitchTV JSON API](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a Tribute Page](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a Wikipedia Viewer](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a Tic Tac Toe Game](./Legacy%20Certifications/Legacy%20Front%20End)
-- [Build a Simon Game](./Legacy%20Certifications/Legacy%20Front%20End)
+- [Build a Personal Portfolio Webpage](./LegacyLegacyFrontEnd)
+- [Build a Random Quote Machine](./LegacyLegacyFrontEnd)
+- [Build a 25 + 5 Clock](./LegacyLegacyFrontEnd)
+- [Build a JavaScript Calculator](./LegacyLegacyFrontEnd)
+- [Show the Local Weather](./LegacyLegacyFrontEnd)
+- [Use the TwitchTV JSON API](./LegacyLegacyFrontEnd)
+- [Build a Tribute Page](./LegacyLegacyFrontEnd)
+- [Build a Wikipedia Viewer](./LegacyLegacyFrontEnd)
+- [Build a Tic Tac Toe Game](./LegacyLegacyFrontEnd)
+- [Build a Simon Game](./LegacyLegacyFrontEnd)
 
 ### Scientific Computing with Python | [Certified in 2025]()
 
-- [Arithmetic Formatter](./Certifications/Scientific%20Computing%20with%20Python)
-- [Time Calculator](./Certifications/Scientific%20Computing%20with%20Python)
-- [Budget App](./Certifications/Scientific%20Computing%20with%20Python)
-- [Polygon Area Calculator](./Certifications/Scientific%20Computing%20with%20Python)
-- [Probability Calculator](./Certifications/Scientific%20Computing%20with%20Python)
+- [Arithmetic Formatter](./ScientificComputingWithPython/ArithmeticFormatter)
+- [Time Calculator](./ScientificComputingWithPython/TimeCalculator)
+- [Budget App](./ScientificComputingWithPython/BudgetApp)
+- [Polygon Area Calculator](./ScientificComputingwithPython/PolygonAreaCalculator/)
+- [Probability Calculator](./ScientificComputingWithPython/ProbabilityCalculator)
 
 <!-- ### Data Analysis with Python
-- [Mean-Variance-Standard Deviation Calculator](./Certifications/Data%20Analysis%20with%20Python)
-- [Demographic Data Analyzer](./Certifications/Data%20Analysis%20with%20Python)
-- [Medical Data Visualizer](./Certifications/Data%20Analysis%20with%20Python)
-- [Page View Time Series Visualizer](./Certifications/Data%20Analysis%20with%20Python)
-- [Sea Level Predictor](./Certifications/Data%20Analysis%20with%20Python) -->
+- [Mean-Variance-Standard Deviation Calculator](./DataAnalysiswithPython)
+- [Demographic Data Analyzer](./DataAnalysiswithPython)
+- [Medical Data Visualizer](./DataAnalysiswithPython)
+- [Page View Time Series Visualizer](./DataAnalysiswithPython)
+- [Sea Level Predictor](./DataAnalysiswithPython) -->
 
 <!-- ### Machine Learning with Python
-- [Rock Paper Scissors](./Certifications/Machine%20Learning%20with%20Python)
-- [Cat and Dog Image Classifier](./Certifications/Machine%20Learning%20with%20Python)
-- [Book Recommendation Engine using KNN](./Certifications/Machine%20Learning%20with%20Python)
-- [Linear Regression Health Costs Calculator](./Certifications/Machine%20Learning%20with%20Python)
-- [Neural Network SMS Text Classifier](./Certifications/Machine%20Learning%20with%20Python) -->
+- [Rock Paper Scissors](./MachineLearningwithPython)
+- [Cat and Dog Image Classifier](./MachineLearningwithPython)
+- [Book Recommendation Engine using KNN](./MachineLearningwithPython)
+- [Linear Regression Health Costs Calculator](./MachineLearningwithPython)
+- [Neural Network SMS Text Classifier](./MachineLearningwithPython) -->
 
 <!-- ### College Algebra with Python
-- [Build a Multi-Function Calculator](./Certifications/College%20Algebra%20with%20Python)
-- [Build a Graphing Calculator](./Certifications/College%20Algebra%20with%20Python)
-- [Build Three Math Games](./Certifications/College%20Algebra%20with%20Python)
-- [Build a Financial Calculator](./Certifications/College%20Algebra%20with%20Python)
-- [Build a Data Graph Explorer](./Certifications/College%20Algebra%20with%20Python) -->
+- [Build a Multi-Function Calculator](./CollegeAlgebrawithPython)
+- [Build a Graphing Calculator](./CollegeAlgebrawithPython)
+- [Build Three Math Games](./CollegeAlgebrawithPython)
+- [Build a Financial Calculator](./CollegeAlgebrawithPython)
+- [Build a Data Graph Explorer](./CollegeAlgebrawithPython) -->
