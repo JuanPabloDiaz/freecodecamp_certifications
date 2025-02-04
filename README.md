@@ -8,11 +8,11 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Responsive Web Design | [Certified in 2022](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design)
 
-- [Build a Survey Form](./ResponsiveWebDesign)
-- [Build a Tribute Page](./ResponsiveWebDesign)
-- [Build a Technical Documentation Page](./ResponsiveWebDesign)
-- [Build a Product Landing Page](./ResponsiveWebDesign)
-- [Build a Personal Portfolio Webpage](./ResponsiveWebDesign)
+- [Build a Survey Form](https://codepen.io/1diazdev/pen/KLNpgw)
+- [Build a Tribute Page](https://codepen.io/1diazdev/pen/wJWJEZ?editors=1000)
+- [Build a Technical Documentation Page](https://github.com/JuanPabloDiaz/doc) ⚡ [Demo](https://docs.jpdiaz.dev)
+- [Build a Product Landing Page](https://github.com/JuanPabloDiaz/landingZone) ⚡ [Demo](https://lp.jpdiaz.dev)
+- [Build a Personal Portfolio Webpage](https://github.com/JuanPabloDiaz/jpdiaz) ⚡ [Demo](https://jpdiaz.dev)
 
 ### Front End Development Libraries | [Certified in 2023](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries)
 
