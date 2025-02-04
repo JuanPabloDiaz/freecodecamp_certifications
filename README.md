@@ -2,9 +2,14 @@
 
 This repository contains all the projects completed to earn freeCodeCamp certifications. Each folder corresponds to a specific certification and includes a link to the related project repos.
 
----
-
 ## Certifications
+
+|                                                                                                                                               |                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![responsiveWebDesign](./certifications/responsiveWebDesign.png)](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design) | [![frontEndDevLibraries](./certifications/frontEndDevLibraries.png)](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries)                       |
+| [![legacyFrontEnd](./certifications/legacyFrontEnd.png)](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)                | [![scientificComputingWithPython](./certifications/scientificComputingWithPython.png)](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7) |
+
+---
 
 ### Responsive Web Design | [Certified in 2022](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design)
 
