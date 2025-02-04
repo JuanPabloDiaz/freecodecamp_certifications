@@ -35,7 +35,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Build a Tic Tac Toe Game](./LegacyLegacyFrontEnd)
 - [Build a Simon Game](./LegacyLegacyFrontEnd)
 
-### Scientific Computing with Python | [Certified in 2025]()
+### Scientific Computing with Python | [Certified in 2025](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7)
 
 - [Arithmetic Formatter](./ScientificComputingWithPython/ArithmeticFormatter)
 - [Time Calculator](./ScientificComputingWithPython/TimeCalculator)
