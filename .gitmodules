@@ -1,19 +1,19 @@
 
 # # Legacy Front End
-[submodule "Legacy Certifications/LegacyFrontEnd/Show the Local Weather"]
-	path = Legacy Certifications/Legacy Front End/Show the Local Weather
+[submodule "LegacyFrontEnd/Show the Local Weather"]
+	path = LegacyFrontEnd/Show the Local Weather
 	url = https://github.com/JuanPabloDiaz/weather.git
-[submodule "Legacy Certifications/Legacy Front End/Use the TwitchTV JSON API"]
-	path = Legacy Certifications/Legacy Front End/Use the TwitchTV JSON API
+[submodule "LegacyFrontEnd/Use the TwitchTV JSON API"]
+	path = LegacyFrontEnd/Use the TwitchTV JSON API
 	url = https://github.com/JuanPabloDiaz/twitch.git
-[submodule "Legacy Certifications/Legacy Front End/Build a Wikipedia Viewer"]
-	path = Legacy Certifications/Legacy Front End/Build a Wikipedia Viewer
+[submodule "LegacyFrontEnd/Build a Wikipedia Viewer"]
+	path = LegacyFrontEnd/Build a Wikipedia Viewer
 	url = https://github.com/JuanPabloDiaz/wikipediaViewer.git
-[submodule "Legacy Certifications/Legacy Front End/Build a Tic Tac Toe Game"]
-	path = Legacy Certifications/Legacy Front End/Build a Tic Tac Toe Game
+[submodule "LegacyFrontEnd/Build a Tic Tac Toe Game"]
+	path = LegacyFrontEnd/Build a Tic Tac Toe Game
 	url = https://github.com/JuanPabloDiaz/ticTacToe.git
-[submodule "Legacy Certifications/Legacy Front End/Build a Simon Game"]
-	path = Legacy Certifications/Legacy Front End/Build a Simon Game
+[submodule "LegacyFrontEnd/Build a Simon Game"]
+	path = LegacyFrontEnd/Build a Simon Game
 	url = https://github.com/JuanPabloDiaz/simonGame.git
 
 # # Responsive Web Design
