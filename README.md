@@ -16,23 +16,27 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Front End Development Libraries | [Certified in 2023](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries)
 
-- [Build a Random Quote Machine](./FrontEndDevLibraries)
-- [Build a Markdown Previewer](./FrontEndDevLibraries)
-- [Build a Drum Machine](./FrontEndDevLibraries)
-- [Build a JavaScript Calculator](./FrontEndDevLibraries)
-- [Build a 25 + 5 Clock](./FrontEndDevLibraries)
+> **Note:** You can also visit my _[FreeCodeCamp Collection (freecodecamp.jpdiaz.dev)](https://freecodecamp.jpdiaz.dev)_ website, it is a non official site that I build to consolidate all the projects below in a single site instead of using multiple sites and repos.
+
+- [Build a Random Quote Machine](https://github.com/JuanPabloDiaz/random-quote-generator) ⚡ [Demo](https://quote.jpdiaz.dev). | Or visit `freecodecamp.jpdiaz.dev/Quote`
+- [Build a Markdown Previewer](https://github.com/JuanPabloDiaz/markdownPreviewer) ⚡ [Demo](https://markdown.jpdiaz.dev). | Or visit `freecodecamp.jpdiaz.dev/Markdown`
+- [Build a Drum Machine](https://github.com/JuanPabloDiaz/drumMachine) ⚡ [Demo](https://drum.jpdiaz.dev). | Or visit `freecodecamp.jpdiaz.dev/Drum)`
+- [Build a JavaScript Calculator](https://github.com/JuanPabloDiaz/calculator) ⚡ [Demo](https://math.jpdiaz.dev). | Or visit `freecodecamp.jpdiaz.dev/calculator`
+- [Build a 25 + 5 Clock](https://github.com/JuanPabloDiaz/25-5_clock) ⚡ [Demo](https://25.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/Pomodoro`
 
 ### Legacy Front End | [Certified in 2024](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)
 
-- [Build a Personal Portfolio Webpage](https://github.com/JuanPabloDiaz/freecodecamp) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev) ⚡ [Demo B](https://codepen.io/1diazdev/pen/EzNaQV)
-- [Build a Random Quote Machine](https://github.com/JuanPabloDiaz/random-quote-generator) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Quote) ⚡ [Demo B](https://quote.jpdiaz.dev)
-- [Build a 25 + 5 Clock]() ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Pomodoro) ⚡ [Demo B](https://25.jpdiaz.dev)
-- [Build a JavaScript Calculator](https://github.com/JuanPabloDiaz/calculator) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/calculator) ⚡ [Demo B](https://math.jpdiaz.dev)
-- [Show the Local Weather](https://weather.jpdiaz.dev/) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Weather) ⚡ [Demo B](https://github.com/JuanPabloDiaz/weather)
-- [Use the TwitchTV JSON API](https://twitch.jpdiaz.dev/) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Twitch) ⚡ [Demo B](https://github.com/JuanPabloDiaz/twitch)
-- [Build a Wikipedia Viewer](https://github.com/JuanPabloDiaz/wikipediaViewer) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Wikipedia) ⚡ [Demo B](https://wiki.jpdiaz.dev)
-- [Build a Tic Tac Toe Game](https://github.com/JuanPabloDiaz/ticTacToe) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/TicTacToe) ⚡ [Demo B](https://tictactoe.jpdiaz.dev)
-- [Build a Simon Game](https://github.com/JuanPabloDiaz/simonGame) ⚡ [Demo A](https://freecodecamp.jpdiaz.dev/Simon) ⚡ [Demo B](https://simon.jpdiaz.dev)
+> **Note:** You can also visit my _[FreeCodeCamp Collection (freecodecamp.jpdiaz.dev)](https://freecodecamp.jpdiaz.dev)_ website, it is a non official site that I build to consolidate all the projects below in a single site instead of using multiple sites and repos.
+
+- [Build a Personal Portfolio Webpage](https://github.com/JuanPabloDiaz/freecodecamp) ⚡ [Demo](https://freecodecamp.jpdiaz.dev) ⚡ [Demo](https://codepen.io/1diazdev/pen/EzNaQV)
+- [Build a Random Quote Machine](https://github.com/JuanPabloDiaz/random-quote-generator) ⚡ [Demo](https://quote.jpdiaz.dev). | Or visit `freecodecamp.jpdiaz.dev/Quote`
+- [Build a 25 + 5 Clock](https://github.com/JuanPabloDiaz/25-5_clock) ⚡ [Demo](https://25.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/Pomodoro`
+- [Build a JavaScript Calculator](https://github.com/JuanPabloDiaz/calculator) ⚡ [Demo](https://math.jpdiaz.dev). | Or visit `freecodecamp.jpdiaz.dev/calculator`
+- [Show the Local Weather](https://github.com/JuanPabloDiaz/weather) ⚡ [Demo](https://weather.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/Weather`
+- [Use the TwitchTV JSON API](https://github.com/JuanPabloDiaz/twitch) ⚡ [Demo](https://twitch.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/Twitch`
+- [Build a Wikipedia Viewer](https://github.com/JuanPabloDiaz/wikipediaViewer) ⚡ [Demo](https://wiki.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/Wikipedia`
+- [Build a Tic Tac Toe Game](https://github.com/JuanPabloDiaz/ticTacToe) ⚡ [Demo](https://tictactoe.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/TicTacToe`
+- [Build a Simon Game](https://github.com/JuanPabloDiaz/simonGame) ⚡ [Demo](https://simon.jpdiaz.dev) | Or visit `freecodecamp.jpdiaz.dev/Simon`
 - [Build a Tribute Page ](https://codepen.io/1diazdev/pen/wJWJEZ?editors=1000)
 
 ### Scientific Computing with Python | [Certified in 2025](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7)
