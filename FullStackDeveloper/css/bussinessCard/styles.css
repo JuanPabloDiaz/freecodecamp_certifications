@@ -1,0 +1,50 @@
+/* styles.css */
+body {
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  margin: 5px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.business-card {
+  width: 300px;
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 100px auto;
+  text-align: center;
+  font-size: 16px;
+}
+
+.profile-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.full-name,
+.designation,
+.company {
+  margin: 5px 0;
+}
+
+hr {
+  border-top: 1px dashed slategray;
+}
+
+.social-media {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.social-media a {
+  margin: 0 10px;
+}
