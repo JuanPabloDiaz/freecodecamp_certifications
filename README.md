@@ -13,7 +13,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ---
 
-### Responsive Web Design
+### Responsive Web Design [![Certified](https://img.shields.io/badge/freeCodeCamp_Certified_in_2022-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design)
 
  <!-- | [Certified in 2022](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design) -->
 

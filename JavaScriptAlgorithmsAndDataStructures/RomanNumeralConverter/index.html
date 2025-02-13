@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Juan Diaz" />
+    <meta name="date" content="2025" />
+    <meta name="description" content="A simple Roman numeral converter." />
+    <meta name="keywords" content="roman numerals, converter, numbers" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Roman numeral converter</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Roman Numeral Converter</h1>
+      <h2>Enter a number:</h2>
+      <div class="input-container">
+        <input type="number" name="number" id="number" />
+        <button id="convert-btn">Convert</button>
+      </div>
+      <div class="display" id="output"></div>
+    </div>
+    <footer class="footer">
+      <p>
+        ©
+        <script>
+          const startYear = 2025;
+          const currentYear = new Date().getFullYear();
+          const yearText =
+            startYear === currentYear
+              ? startYear
+              : `${startYear} - ${currentYear}`;
+          document.write(yearText);
+        </script>
+      </p>
+      <span class="dot">•</span>
+      <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+        Linkedin </a
+      ><span class="dot">•</span>
+      <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+    </footer>
+    <script src="./script.js"></script>
+  </body>
+</html>

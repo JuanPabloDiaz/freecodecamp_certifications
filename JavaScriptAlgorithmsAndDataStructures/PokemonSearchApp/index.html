@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="Juan Diaz" />
+  <meta name="date" content="2025" />
+  <title>Pokémon</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+  <div class="title">
+    <h1>Pokémon Search App ⌕</h1>
+  </div>
+  <div id="search">
+      <input id="search-input" required placeholder="Enter Pokémon Name or ID"></input>
+      <button id="search-button"><i class="fa fa-search"></i></button>
+  </div>
+  <div id="card">
+      <div id="card-inner">
+          <div id="card-front" class="card-face">
+              <div id="sprite-container"></div>
+          </div>
+          <div id="card-back" class="card-face">
+            <span class="stats-title">Base Stats</span>
+              <div id="stats">
+                <div><span class="stat-name">Name: </span><span id="pokemon-name"></span></div>
+                <div><span class="stat-name">ID: </span><span id="pokemon-id"></span></div>
+                <div><span class="stat-name">Weight: </span><span id="weight"></span></div>
+                <div><span class="stat-name">Height: </span><span id="height"></span></div>
+                <div><span class="stat-name">Type: </span><span id="types"></span></div>
+                <div><span class="stat-name">Hp: </span><span id="hp"></span></div>
+                <div><span class="stat-name">Attack: </span><span id="attack"></span></div>
+                <div><span class="stat-name">Defense: </span><span id="defense"></span></div>
+                <div><span class="stat-name">Special Attack: </span><span id="special-attack"></span></div>
+                <div><span class="stat-name">Special Defense: </span><span id="special-defense"></span></div>
+                <div><span class="stat-name">Speed: </span><span id="speed"></span></div>
+              </div>
+          </div>
+      </div>
+  </div>
+  <footer class="footer">
+    <p>
+      ©
+      <script>
+        const startYear = 2025;
+        const currentYear = new Date().getFullYear();
+        const yearText =
+          startYear === currentYear
+            ? startYear
+            : `${startYear} - ${currentYear}`;
+        document.write(yearText);
+      </script>
+    </p>
+    <span class="dot">•</span>
+    <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+      Linkedin </a
+    ><span class="dot">•</span>
+    <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

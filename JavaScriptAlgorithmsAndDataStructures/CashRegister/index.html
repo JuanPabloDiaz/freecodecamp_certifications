@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Juan Diaz" />
+    <meta name="date" content="2025" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Cash Register Project</title>
+  </head>
+  <body>
+    <main class="container">
+      <h1>📠 Cash Register 📠</h1>
+      <input autocomplete="off" type="text" id="cash" />
+      <button id="purchase-btn">Purchase</button>
+      <p id="price"></p>
+      <p id="change"></p>
+      <br />
+      <div id="change-due"></div>
+      <div id="cash-in-drawer"></div>
+    </main>
+    <footer class="footer">
+      <p>
+        ©
+        <script>
+          const startYear = 2025;
+          const currentYear = new Date().getFullYear();
+          const yearText =
+            startYear === currentYear
+              ? startYear
+              : `${startYear} - ${currentYear}`;
+          document.write(yearText);
+        </script>
+      </p>
+      <span class="dot">•</span>
+      <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+        Linkedin </a
+      ><span class="dot">•</span>
+      <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
