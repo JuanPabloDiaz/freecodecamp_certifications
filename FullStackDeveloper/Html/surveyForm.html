@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Sample HTML Survey Form</title>
+    <meta name="generator" content="Internet Assistant for Microsoft Word 2.0z Beta">
+    </head>
+<body>
+    <h1>
+        <center>Sample HTML Survey Form</center>
+    </h1>
+
+    <h4>
+        <center>Research Data Management Services</center>
+    </h4>
+
+    <h4>
+        <center>
+            University of Delaware<br>
+        </center>
+    </h4>
+
+    <form method="post" action="survey.data">
+        <p>
+            This page illustrates how to form various components of a survey using HTML forms and the
+            <a href="http://www.udel.edu/webstart/guestbook-howto.html">Guestbook</a> CGI script on www.udel.edu.
+            <hr>
+        </p>
+
+        <p>
+            The purpose of the survey would be stated here at the top of the survey. This survey should take less than 10 minutes to complete.
+        </p>
+
+        <p>
+            Some simple demographic information could be collected with radio buttons (e.g., gender, nationality), selection boxes (e.g., date of birth, highest degree attained):
+        </p>
+
+        <form>  <h3>Please tell us a little about yourself.</h3>
+
+            <p>
+                Gender:
+                <input type="radio" name="gender" value="1">Male
+                <input type="radio" name="gender" value="2">Female
+            </p>
+
+            <p>
+                Date of birth: Month
+                <select name="mob">
+                    <option selected value="">?</option>
+                    <option value="1">Jan</option>
+                    <option value="2">Feb</option>
+                    <option value="3">Mar</option>
+                    <option value="4">Apr</option>
+                    <option value="5">May</option>
+                    <option value="6">Jun</option>
+                    <option value="7">Jul</option>
+                    <option value="8">Aug</option>
+                    <option value="9">Sep</option>
+                    <option value="10">Oct</option>
+                    <option value="11">Nov</option>
+                    <option value="12">Dec</option>
+                </select>
+                Day
+                <select name="dob">
+                    <option selected value="">?</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                    <option>10</option>
+                    <option>11</option>
+                    <option>12</option>
+                    <option>13</option>
+                    <option>14</option>
+                    <option>15</option>
+                    <option>16</option>
+                    <option>17</option>
+                    <option>18</option>
+                    <option>19</option>
+                    <option>20</option>
+                    <option>21</option>
+                    <option>22</option>
+                    <option>23</option>
+                    <option>24</option>
+                    <option>25</option>
+                    <option>26</option>
+                    <option>27</option>
+                    <option>28</option>
+                    <option>29</option>
+                    <option>30</option>
+                    <option>31</option>
+                </select>
+                Year
+                <select name="yob">
+                    <option selected value="">??</option>
+                    <option>1965</option>
+                    <option>1966</option>
+                    <option>1967</option>
+                    <option>1968</option>
+                    <option>1969</option>
+                    <option>1970</option>
+                    <option>1971</option>
+                    <option>1972</option>
+                    <option>1973</option>
+                    <option>1974</option>
+                    <option>1975</option>
+                    <option>1976</option>
+                    <option>1977</option>
+                    <option>1978</option>
+                    <option>1979</option>
+                    <option>1980</option>
+                </select>
+            </p>
+
+            <p>
+                Nationality:
+                <input type="radio" name="nation" value="1">U.S.
+                <input type="radio" name="nation" value="2">Canada
+                <input type="radio" name="nation" value="3">Mexico
+                <input type="radio" name="nation" value="4">Puerto Rico
+            </p>
+
+            <p>
+                Highest degree attained:
+                <select name="educ">
+                    <option selected value="">?</option>
+                    <option value="1">H.S. diploma (or equiv.)</option>
+                    <option value="2">Assoc. degree</option>
+                    <option value="3">Bachelor's degree</option>
+                    <option value="4">Master's degree</option>
+                    <option value="5">Doctoral degree</option>
+                </select>
+                <hr>
+            </p>
+
+            <h3>The following series of questions ask about your feelings toward your work. Select the answer that is true most of the time.</h3>
+
+            <p>
+                <table border>
+                    <tr align="center">
+                        <td width="75"></td>
+                        <td width="75"><b>Strongly<br>agree</b></td>
+                        <td width="75"><b>Agree</b></td>
+                        <td width="75"><b>Neither<br>agree<br>nor<br>disagree</b></td>
+                        <td width="75"><b>Disagree</b></td>
+                        <td width="75"><b>Strongly<br>disagree</b></td>
+                    </tr>
+
+                    <tr align="center">
+                        <td align="left">The work is very stimulating.</td>
+                        <td><input type="radio" name="stimulat" value="1"></td>
+                        <td><input type="radio" name="stimulat" value="2"></td>
+                        <td><input type="radio" name="stimulat" value="3"></td>
+                        <td><input type="radio" name="stimulat" value="4"></td>
+                        <td><input type="radio" name="stimulat" value="5"></td>
+                    </tr>
+
+                    <tr align="center">
+                        <td align="left">I have a lot of freedom at work.</td>
+                        <td><input type="radio" name="freedom" value="1"></td>
+                        <td><input type="radio" name="freedom" value="2"></td>
+                        <td><input type="radio" name="freedom" value="3"></td>
+                        <td><input type="radio" name="freedom" value="4"></td>
+                        <td><input type="radio" name="freedom" value="5"></td>
+                    </tr>
+
+                    <tr align="center">
+                        <td align="left">My supervisor is very demanding of high quality.</td>
+                        <td><input type="radio" name="demand" value="1"></td>
+                        <td><input type="radio" name="demand" value="2"></td>
+                        <td><input type="radio" name="demand" value="3"></td>
+                        <td><input type="radio" name="demand" value="4"></td>
+                        <td><input type="radio" name="demand" value="5"></td>
+                    </tr>
+
+                    <tr align="center">
+                        <td align="left">The work environment is conducive to creative thinking.</td>
+                        <td><input type="radio" name="creative" value="1"></td>
+                        <td><input type="radio" name="creative" value="2"></td>
+                        <td><input type="radio" name="creative" value="3"></td>
+                        <td><input type="radio" name="creative" value="4"></td>
+                        <td><input type="radio" name="creative" value="5"></td>
+                    </tr>
+                </table>
+                <hr>
+            </p>
+
+            <p>
+                Do you have any additional thoughts on the topic of the survey?
+                <textarea name="comment" rows="4" cols="50"></textarea>
+            </p>
+
+            <p>
+                If you would like to have a copy of the final summary results sent to you, please type your e-mail address below:
+                <br>
