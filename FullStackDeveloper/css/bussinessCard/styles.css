@@ -48,3 +48,26 @@ hr {
 .social-media a {
   margin: 0 10px;
 }
+
+/* FOOTER */
+
+.dot {
+  margin: 0 0.25rem;
+  color: rgb(28, 26, 26);
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  text-align: center;
+}
+
+footer p,
+footer a {
+  display: inline;
+  margin: 0 5px;
+  color: rgb(28, 26, 26);
+}

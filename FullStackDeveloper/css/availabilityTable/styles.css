@@ -1,0 +1,105 @@
+:root {
+  --color0: #ff0000;
+  --color1: #ff6600;
+  --color2: #ffff00;
+  --color3: #99cc00;
+  --color4: #339966;
+  --color5: #009933;
+  --solid-border: 2px solid #000;
+  --dashed-border: 2px dashed #000;
+}
+
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: center;
+}
+
+.time {
+  font-weight: bold;
+}
+
+.available-0 {
+  background-color: var(--color0);
+}
+.available-1 {
+  background-color: var(--color1);
+}
+.available-2 {
+  background-color: var(--color2);
+}
+.available-3 {
+  background-color: var(--color3);
+}
+.available-4 {
+  background-color: var(--color4);
+}
+.available-5 {
+  background-color: var(--color5);
+}
+
+.sharp td {
+  border-bottom: var(--solid-border);
+}
+
+.half td {
+  border-bottom: var(--dashed-border);
+}
+
+#legend {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+#legend-gradient {
+  width: 75%;
+  height: 15px;
+  background-image: linear-gradient(
+    90deg,
+    var(--color0) 16%,
+    var(--color1) 16% 33%,
+    var(--color2) 33% 49%,
+    var(--color3) 49% 66%,
+    var(--color4) 66% 83%,
+    var(--color5) 83%
+  );
+}
+
+/* FOOTER */
+
+.dot {
+  margin: 0 0.25rem;
+  color: rgb(28, 26, 26);
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  text-align: center;
+}
+
+footer p,
+footer a {
+  display: inline;
+  margin: 0 5px;
+  color: rgb(28, 26, 26);
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Juan Diaz" />
+    <meta name="date" content="2023" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Newspaper Article</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="newspaper">
+      <div class="name">The Daily News</div>
+      <div class="date">October 26, 2023</div>
+      <div class="headline">Local Hero Saves the Day</div>
+      <div class="sub-headline">Courageous Act Prevents Major Incident</div>
+      <div class="author">Jane Doe</div>
+      <div class="text">
+        A swift and selfless act by a local resident prevented a potentially
+        disastrous situation yesterday afternoon. John Smith, a resident of Elm
+        Street, noticed smoke billowing from a neighboring house and immediately
+        sprang into action.
+      </div>
+      <div class="text">
+        Without hesitation, Mr. Smith, a retired firefighter, rushed to the
+        scene and, after ensuring no one was inside, bravely entered the burning
+        building. He was able to quickly extinguish the small fire before it
+        could spread, preventing significant damage to the property and
+        surrounding homes. The quick response of Mr. Smith was praised by
+        neighbors and local authorities.
+      </div>
+    </div>
+    <footer class="footer">
+      <p>
+        ©
+        <script>
+          const startYear = 2023;
+          const currentYear = new Date().getFullYear();
+          const yearText =
+            startYear === currentYear
+              ? startYear
+              : `${startYear} - ${currentYear}`;
+          document.write(yearText);
+        </script>
+      </p>
+      <span class="dot">•</span>
+      <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+        Linkedin </a
+      ><span class="dot">•</span>
+      <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+    </footer>
+  </body>
+</html>

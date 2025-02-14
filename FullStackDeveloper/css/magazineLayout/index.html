@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Juan Diaz" />
+    <meta name="date" content="2023" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Magazine Layout</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="magazine-cover">
+      <header class="title"><h1>Modern Design</h1></header>
+      <section class="feature-article">
+        <h2>Feature Article</h2>
+        <p>
+          This is a captivating article about the latest trends in modern
+          design. It explores innovative concepts and inspiring ideas that are
+          shaping the future of aesthetics.
+        </p>
+      </section>
+      <section class="small-article1">
+        <h3>Small Article 1</h3>
+        <p>A brief overview of sustainable design practices.</p>
+      </section>
+      <section class="small-article2">
+        <h3>Small Article 2</h3>
+        <p>Exploring the impact of technology on design.</p>
+      </section>
+      <section class="cover-image">
+        <img
+          src="https://archive.org/download/placeholder-image/placeholder-image.jpg"
+          alt="Cover Image"
+        />
+      </section>
+    </main>
+    <footer class="footer">
+      <p>
+        ©
+        <script>
+          const startYear = 2023;
+          const currentYear = new Date().getFullYear();
+          const yearText =
+            startYear === currentYear
+              ? startYear
+              : `${startYear} - ${currentYear}`;
+          document.write(yearText);
+        </script>
+      </p>
+      <span class="dot">•</span>
+      <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+        Linkedin </a
+      ><span class="dot">•</span>
+      <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+    </footer>
+  </body>
+</html>

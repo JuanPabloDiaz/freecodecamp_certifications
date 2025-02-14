@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Juan Diaz" />
+    <meta name="date" content="2023" />
+    <link rel="stylesheet" href="styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Playing Cards</title>
+  </head>
+  <body>
+    <main id="playing-cards">
+      <div class="card">
+        <div class="left rank">A</div>
+        <div class="middle">
+          <span>♠</span>
+        </div>
+        <div class="right rank">A</div>
+      </div>
+      <div class="card">
+        <div class="left rank">K</div>
+        <div class="middle">
+          <span>♥</span>
+        </div>
+        <div class="right rank">K</div>
+      </div>
+      <div class="card">
+        <div class="left rank">Q</div>
+        <div class="middle">
+          <span>♦</span>
+        </div>
+        <div class="right rank">Q</div>
+      </div>
+      <div class="card">
+        <div class="left rank">J</div>
+        <div class="middle">
+          <span>♣</span>
+        </div>
+        <div class="right rank">J</div>
+      </div>
+    </main>
+    <footer class="footer">
+      <p>
+        ©
+        <script>
+          const startYear = 2023;
+          const currentYear = new Date().getFullYear();
+          const yearText =
+            startYear === currentYear
+              ? startYear
+              : `${startYear} - ${currentYear}`;
+          document.write(yearText);
+        </script>
+      </p>
+      <span class="dot">•</span>
+      <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+        Linkedin </a
+      ><span class="dot">•</span>
+      <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+    </footer>
+  </body>
+</html>
