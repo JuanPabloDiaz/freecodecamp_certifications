@@ -1,3 +1,5 @@
+import "./Nav.css";
+
 export function Navbar() {
   return (
     <nav className="navbar">
@@ -24,5 +26,13 @@ export function Navbar() {
         </li>
       </ul>
     </nav>
+  );
+}
+
+export function NavApp() {
+  return (
+    <div className="nav-container">
+      <Navbar />
+    </div>
   );
 }

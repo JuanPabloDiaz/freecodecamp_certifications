@@ -1,3 +1,5 @@
+import "./Footer.css";
+
 export const Footer = () => {
   const startYear = 2024;
   const currentYear = new Date().getFullYear();

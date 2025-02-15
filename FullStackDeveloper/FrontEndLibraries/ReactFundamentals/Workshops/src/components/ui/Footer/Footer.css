@@ -1,0 +1,20 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #333;
+}
+
+.footer-link {
+  transition: all 0.5s ease-in-out;
+  text-decoration: none;
+  color: #0d3b66;
+  font-weight: 500;
+  margin: 5px;
+}
+
+.footer-link:hover {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
+}

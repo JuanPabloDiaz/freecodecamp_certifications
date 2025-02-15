@@ -1,0 +1,70 @@
+.sidebar {
+  width: 60px; /* Initial width (closed state) */
+  background-color: #f0f0f0; /* Example background color */
+  position: fixed; /* Or absolute, depending on your layout */
+  left: 0;
+  top: 0;
+  bottom: 0;
+  transition: width 0.3s ease-in-out; /* Smooth transition for width */
+  overflow: hidden; /* Hide content when closed */
+}
+
+.sidebar.open {
+  width: 200px; /* Expanded width */
+}
+
+.toggle-button {
+  background: none;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  position: absolute; /* Position the button */
+  top: 10px;
+  right: 10px; /* Or left: 10px; if you want it on the left */
+  z-index: 10; /* Ensure it's above the sidebar content */
+}
+
+.toggle-button span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: #333; /* Example color */
+  margin: 5px 0;
+}
+
+.sidebar-content {
+  list-style: none;
+  padding: 20px;
+  margin-top: 60px; /* Adjust top margin to accommodate the toggle button */
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.3s ease-in-out; /* Smooth transition for opacity */
+}
+
+.sidebar.open .sidebar-content {
+  opacity: 1; /* Show content when open */
+}
+
+.sidebar-content li {
+  margin-bottom: 10px;
+}
+
+.sidebar-content a {
+  text-decoration: none;
+  color: #333; /* Example color */
+}
+
+/* Optional styling for active links, hover effects, etc. */
+.sidebar-content a:hover {
+  color: #007bff; /* Example hover color */
+}
+
+/* Media query for smaller screens (optional) */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 60px; /* Adjust width for smaller screens */
+  }
+
+  .sidebar.open {
+    width: 150px; /* Adjust open width for smaller screens */
+  }
+}
