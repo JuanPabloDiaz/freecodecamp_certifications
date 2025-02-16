@@ -1,0 +1,170 @@
+------------------------------------------------------------
+0. Connect to postgres
+------------------------------------------------------------
+
+psql --username=freecodecamp --dbname=postgres;
+
+------------------------------------------------------------
+1. Create Database and connect to it
+------------------------------------------------------------
+
+CREATE DATABASE universe;
+
+\l     --> list of databases
+
+\c universe   --> to get into the db (connect)
+
+\d --> is to display tables
+\d table name
+
+------------------------------------------------------------
+2. Create tables as required conditions
+------------------------------------------------------------
+CREATE TABLE galaxy (
+    galaxy_id SERIAL NOT NULL,
+    star_id INTEGER  NOT NULL,
+    name VARCHAR(20) UNIQUE NOT NULL,
+    area INTEGER,
+    volume INTEGER,
+    age NUMERIC,
+    material TEXT,
+    has_life BOOLEAN,
+    has_water BOOLEAN
+);
+
+CREATE TABLE star (
+    star_id SERIAL NOT NULL,
+    galaxy_id INTEGER NOT NULL,
+    planet_id INTEGER NOT NULL,
+    name VARCHAR(20) UNIQUE NOT NULL,
+    area INTEGER,
+    volume INTEGER,
+    age NUMERIC,
+    material TEXT,
+    has_life BOOLEAN,
+    has_water BOOLEAN
+);
+
+CREATE TABLE planet (
+    planet_id SERIAL NOT NULL,
+    star_id INTEGER  NOT NULL,
+    moon_id INTEGER  NOT NULL,
+    name VARCHAR(20) UNIQUE NOT NULL,
+    area INTEGER,
+    volume INTEGER,
+    age NUMERIC,
+    material TEXT,
+    has_life BOOLEAN,
+    has_water BOOLEAN
+);
+
+CREATE TABLE moon (
+    moon_id SERIAL NOT NULL,
+    planet_id INTEGER NOT NULL,
+    name VARCHAR(20) UNIQUE NOT NULL,
+    area INTEGER,
+    volume INTEGER,
+    age NUMERIC,
+    material TEXT,
+    has_life BOOLEAN,
+    has_water BOOLEAN
+);
+
+CREATE TABLE other_table (
+    other_table_id SERIAL NOT NULL,
+    object_id INTEGER,
+    name VARCHAR(20) UNIQUE NOT NULL,
+    description TEXT
+);
+
+------------------------------------------------------------
+3. Fill out the tables following the conditions
+------------------------------------------------------------
+INSERT INTO galaxy VALUES
+(1, 1, 'galaxia1', 321, 567, 1321.91, 'solid', true, true),
+(2, 2, 'galaxia2', 321, 567, 1321.91, 'solid', true, true),
+(3, 3, 'galaxia3', 321, 567, 1321.91, 'solid', true, true),
+(4, 4, 'galaxia4', 321, 567, 1321.91, 'solid', true, true),
+(5, 5, 'galaxia5', 321, 567, 1321.91, 'solid', true, true),
+(6, 6, 'galaxia6', 321, 567, 1321.91, 'solid', true, true);
+
+INSERT INTO star VALUES
+(1, 1, 1, 'estrella1', 321, 567, 1321.91, 'solid', true, true),
+(2, 2, 2, 'estrella2', 321, 567, 1321.91, 'solid', true, true),
+(3, 3, 3, 'estrella3', 321, 567, 1321.91, 'solid', true, true),
+(4, 4, 4, 'estrella4', 321, 567, 1321.91, 'solid', true, true),
+(5, 5, 5, 'estrella5', 321, 567, 1321.91, 'solid', true, true),
+(6, 6, 6, 'estrella6', 321, 567, 1321.91, 'solid', true, true);
+
+INSERT INTO planet VALUES
+(1,  1,  1, 'planeta1', 321, 567, 1321.91, 'solid', true, true),
+(2,  2,  2, 'planeta2', 321, 567, 1321.91, 'solid', true, true),
+(3,  3,  3, 'planeta3', 321, 567, 1321.91, 'solid', true, true),
+(4,  4,  4, 'planeta4', 321, 567, 1321.91, 'solid', true, true),
+(5,  5,  5, 'planeta5', 321, 567, 1321.91, 'solid', true, true),
+(6,  6,  6, 'planeta6', 321, 567, 1321.91, 'solid', true, true),
+(7,  6,  7, 'planeta7', 321, 567, 1321.91, 'solid', true, true),
+(8,  6,  8, 'planeta8', 321, 567, 1321.91, 'solid', true, true),
+(9,  6,  9, 'planeta9', 321, 567, 1321.91, 'solid', true, true),
+(10, 6, 10, 'planeta10', 321, 567, 1321.91, 'solid', true, true),
+(11, 6, 11, 'planeta11', 321, 567, 1321.91, 'solid', true, true),
+(12, 6, 12, 'planeta12', 321, 567, 1321.91, 'solid', true, true);
+
+INSERT INTO moon VALUES
+(1,   1, 'moon1', 321, 567, 1321.91, 'solid', true, true),
+(2,   2, 'moon2', 321, 567, 1321.91, 'solid', true, true),
+(3,   3, 'moon3', 321, 567, 1321.91, 'solid', true, true),
+(4,   4, 'moon4', 321, 567, 1321.91, 'solid', true, true),
+(5,   5, 'moon5', 321, 567, 1321.91, 'solid', true, true),
+(6,   6, 'moon6', 321, 567, 1321.91, 'solid', true, true),
+(7,   7, 'moon7', 321, 567, 1321.91, 'solid', true, true),
+(8,   8, 'moon8', 321, 567, 1321.91, 'solid', true, true),
+(9,   9, 'moon9', 321, 567, 1321.91, 'solid', true, true),
+(10, 10, 'moon10', 321, 567, 1321.91, 'solid', true, true),
+(11, 11, 'moon11', 321, 567, 1321.91, 'solid', true, true),
+(12, 11, 'moon12', 321, 567, 1321.91, 'solid', true, true),
+(13, 11, 'moon13', 321, 567, 1321.91, 'solid', true, true),
+(14, 11, 'moon14', 321, 567, 1321.91, 'solid', true, true),
+(15, 11, 'moon15', 321, 567, 1321.91, 'solid', true, true),
+(16, 11, 'moon16', 321, 567, 1321.91, 'solid', true, true),
+(17, 11, 'moon17', 321, 567, 1321.91, 'solid', true, true),
+(18, 11, 'moon18', 321, 567, 1321.91, 'solid', true, true),
+(19, 11, 'moon19', 321, 567, 1321.91, 'solid', true, true),
+(20, 11, 'moon20', 321, 567, 1321.91, 'solid', true, true);
+
+INSERT INTO other_table VALUES
+(1, 1, 'info1', 'some description text'),
+(2, 2, 'info2', 'some description text'),
+(3, 3, 'info3', 'some description text'),
+(4, 4, 'info4', 'some description text'),
+(5, 5, 'info5', 'some description text');
+
+------------------------------------------------------------
+4. Primary Key and Foreign Key assignment
+------------------------------------------------------------
+ALTER TABLE galaxy      ADD PRIMARY KEY (galaxy_id);
+ALTER TABLE star        ADD PRIMARY KEY (star_id);
+ALTER TABLE planet      ADD PRIMARY KEY (planet_id);
+ALTER TABLE moon        ADD PRIMARY KEY (moon_id);
+ALTER TABLE other_table ADD PRIMARY KEY (other_table_id);
+
+ALTER TABLE galaxy ADD FOREIGN KEY (star_id)   REFERENCES star   (star_id);
+ALTER TABLE star   ADD FOREIGN KEY (galaxy_id) REFERENCES galaxy (galaxy_id);
+ALTER TABLE star   ADD FOREIGN KEY (planet_id) REFERENCES planet (planet_id);
+ALTER TABLE planet ADD FOREIGN KEY (star_id)   REFERENCES star   (star_id);
+ALTER TABLE planet ADD FOREIGN KEY (moon_id)   REFERENCES moon   (moon_id);
+ALTER TABLE moon   ADD FOREIGN KEY (planet_id) REFERENCES planet (planet_id);
+
+------------------------------------------------------------
+5. Compact sql db queries into universe.sql file to be able to submit the project
+------------------------------------------------------------
+
+- open a new terminal and add command
+
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+
+- `ls` to check if it was created
+
+- open universe.sql
+
+When you have completed the project, save all the required files into a public repository and submit the URL to it below.
