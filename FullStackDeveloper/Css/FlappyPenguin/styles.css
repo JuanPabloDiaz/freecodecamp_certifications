@@ -1,42 +1,12 @@
 body {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
   background-color: #f0f0f0;
   margin: 0;
   padding: 0;
-}
-
-#email {
-  padding: 50px;
-  margin-top: 50px;
-  width: 500px;
-  border: 2px solid black;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-
-#confidential,
-#top-secret {
-  display: inline-block;
-  padding: 10px;
-  margin-left: 20px;
-  border: 1px solid gray;
-  transform: rotate(-5deg);
-  background-color: lightyellow;
-}
-#top-secret {
-  transform: rotate(5deg);
-}
-
-p {
-  margin-bottom: 10px;
-}
-
-.blurred {
-  filter: blur(3px);
-  font-style: italic;
 }
 
 /* FOOTER */

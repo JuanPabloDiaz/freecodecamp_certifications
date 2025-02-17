@@ -1,0 +1,88 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.space {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.earth {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+.orbit {
+  position: absolute;
+  bottom: 50%;
+  right: 50%;
+  transform: translate(-50%, -50%); /* Corrected transform for orbit */
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; /* Make the orbit circular */
+  /* border: 1px solid gray; */
+  /* Optional: Visualize the orbit */
+  animation: orbit 5s linear infinite;
+}
+
+.moon {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+  border-radius: 50%;
+}
+
+@keyframes orbit {
+  0% {
+    transform: rotate(0deg) translate(-50%, -50%);
+  }
+  100% {
+    transform: rotate(360deg) translate(-50%, -50%);
+  }
+}
+
+/* FOOTER */
+
+.dot {
+  margin: 0 0.25rem;
+  color: rgb(28, 26, 26);
+}
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  text-align: center;
+}
+
+footer p,
+footer a {
+  display: inline;
+  margin: 0 5px;
+  color: rgb(28, 26, 26);
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}

@@ -13,23 +13,23 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ---
 
-<!-- ### Relational Database 2025
+### Relational Database 2025 ( in progress)
 
-- [Celestial Bodies Database]()
+- [Celestial Bodies Database](./RelationalDatabase/CelestialBodiesDatabase/README.md)
 - [World Cup Database]()
 - [Salon Appointment Scheduler]()
 - [Periodic Table Database]()
 - [Number Guessing Game]()
 
-### Full Stack Certification 2025
+### Full Stack Developer 2025 ( in progress)
 
-- [HTML]()
-- [CSS]()
+- [HTML](./FullStackDeveloper/Html/)
+- [CSS](./FullStackDeveloper/Css/)
 - [JavaScript]()
 - [Front End Libraries]()
 - [Relational Database]()
 - [Backend javascript]()
-- [Python]() -->
+- [Python]()
 
 <!-- ### Data Analysis with Python
 - [Mean-Variance-Standard Deviation Calculator](./DataAnalysiswithPython)
