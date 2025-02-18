@@ -124,4 +124,4 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Build a Product Landing Page](https://github.com/JuanPabloDiaz/landingZone) ⚡ [Demo](https://lp.jpdiaz.dev)
 - [Build a Personal Portfolio Webpage](https://github.com/JuanPabloDiaz/jpdiaz) ⚡ [Demo](https://jpdiaz.dev)
 
-<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>
