@@ -73,9 +73,8 @@ linkedin_username: 1diazdev
 #   twitter: JuanDiaz_427
 
 # Exclude directories containing Node.js/JavaScript projects from the build
-exclude:
-  - FullStackDeveloper/FrontEndLibraries/ReactFundamentals/
-  - LegacyJavaScriptAlgorithmsAndDataStructures/
-  - JavaScriptAlgorithmsAndDataStructures/
-
-  # ... any other directories containing Node.js/JavaScript projects
+# exclude:
+#   - FullStackDeveloper/FrontEndLibraries/ReactFundamentals/
+#   - LegacyJavaScriptAlgorithmsAndDataStructures/
+#   - JavaScriptAlgorithmsAndDataStructures/
+# ... any other directories containing Node.js/JavaScript projects

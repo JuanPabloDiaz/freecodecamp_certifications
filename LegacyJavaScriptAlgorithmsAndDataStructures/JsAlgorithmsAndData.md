@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JS Algorithms & Data
-# permalink: /
+# permalink: /LegacyJavaScriptAlgorithmsAndDataStructures/JsAlgorithmsAndData.md/
 ---
 
 <p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
