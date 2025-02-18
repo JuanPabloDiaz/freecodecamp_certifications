@@ -17,23 +17,23 @@ description: >
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-avatar
-  # - jekyll-redirect-from
-  # - jekyll-paginate
-  # - tag-page-generator
-  # - jekyll-minifier
-  # - jekyll-remote-include
-  # - faraday-retry
+# plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
+# - jekyll-avatar
+# - jekyll-redirect-from
+# - jekyll-paginate
+# - tag-page-generator
+# - jekyll-minifier
+# - jekyll-remote-include
+# - faraday-retry
 
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - FullStackDeveloper/FullStackDeveloper.md
+  - FullStackDeveloper/README.md
   - LegacyJavaScriptAlgorithmsAndDataStructures/JsAlgorithmsAndData.md
 
   # - FullStackDeveloper/Html/README.md
@@ -50,7 +50,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  # skin: classic
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
