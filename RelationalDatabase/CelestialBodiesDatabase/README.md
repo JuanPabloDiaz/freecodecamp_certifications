@@ -1,3 +1,11 @@
+---
+layout: page
+title: Celestial Bodies
+permalink: /RelationalDatabase/CelestialBodiesDatabase/
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Celestial Bodies Database
 
 ## Instructions
@@ -47,3 +55,5 @@ the solution is in the file `implementation.txt` and the database dump is in the
 
 - [Implementation](implementation.txt)
 - [universe.sql](universe.sql)
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

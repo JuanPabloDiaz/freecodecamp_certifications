@@ -1,3 +1,11 @@
+---
+layout: page
+title: Time Calculator
+permalink: /ScientificComputingWithPython/TimeCalculator/
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Build a Time Calculator Project
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
@@ -63,3 +71,5 @@ Note: open the browser console with F12 to see a more verbose output of the test
 11\. Calling `add_time('11:59 PM', '24:05', 'Wednesday')` should return `'12:04 AM, Friday (2 days later)'`.
 
 12\. Calling `add_time('8:16 PM', '466:02', 'tuesday')` should return `'6:18 AM, Monday (20 days later)'`.
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

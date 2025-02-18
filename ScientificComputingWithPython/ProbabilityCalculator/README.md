@@ -1,3 +1,11 @@
+---
+layout: page
+title: Probability Calculator
+permalink: /ScientificComputingWithPython/ProbabilityCalculator/
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Build a Probability Calculator Project
 
 Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green balls? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.
@@ -58,3 +66,5 @@ Note: open the browser console with F12 to see a more verbose output of the test
 3\. The `draw` method should behave correctly when the number of balls to extract is bigger than the number of balls in the hat.
 
 4\. The `experiment` method should return a different probability.
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

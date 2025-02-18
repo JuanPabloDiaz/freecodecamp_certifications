@@ -1,3 +1,11 @@
+---
+layout: page
+title: Arithmetic Formatter
+permalink: /ScientificComputingWithPython/ArithmeticFormatter/
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Build an Arithmetic Formatter Project
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
@@ -79,3 +87,5 @@ Note: open the browser console with F12 to see a more verbose output of the test
 9\. `arithmetic_arranger(["3 + 855", "988 + 40"], True)` should return `3 988\n+ 855 + 40\n----- -----\n 858 1028`.
 
 10\. `arithmetic_arranger(["32 - 698", "1 - 3801", "45 + 43", "123 + 49", "988 + 40"], True)` should return `32 1 45 123 988\n- 698 - 3801 + 43 + 49 + 40\n----- ------ ---- ----- -----\n -666 -3800 88 172 1028`.
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

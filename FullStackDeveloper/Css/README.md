@@ -4,6 +4,8 @@ title: CSS
 permalink: /FullStackDeveloper/Css/
 ---
 
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 This page is a collection of all the **CSS projects** completed for the CSS section of the Full Stack Developer certification on freeCodeCamp.
 
 - [Animated Ferris Wheel](./AnimatedFerrisWheel)
@@ -36,3 +38,5 @@ This page is a collection of all the **CSS projects** completed for the CSS sect
 - [Set Colored Boxes](./SetColoredBoxes)
 - [Set Colored Markers](./SetColoredMarkers)
 - [To-Do List](./ToDo)
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

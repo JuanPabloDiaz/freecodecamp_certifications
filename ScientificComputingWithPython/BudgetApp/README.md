@@ -1,3 +1,11 @@
+---
+layout: page
+title: Budget App
+permalink: /ScientificComputingWithPython/BudgetApp/
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Build a Budget App Project
 
 Complete the `Category` class. It should be able to instantiate objects based on different budget categories like _food_, _clothing_, and _entertainment_. When objects are created, they are passed in the name of the category. The class should have an instance variable called `ledger` that is a list. The class should also contain the following methods:
@@ -120,3 +128,5 @@ Note: open the browser console with F12 to see a more verbose output of the test
 23\. `create_spend_chart` chart should have each category name written vertically below the bar. Each line should have the same length, each category should be separated by two spaces, with additional two spaces after the final category.
 
 24\. `create_spend_chart` should print a different chart representation. Check that all spacing is exact. Open your browser console with F12 for more details.
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

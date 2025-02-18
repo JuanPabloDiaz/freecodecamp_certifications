@@ -1,3 +1,11 @@
+---
+layout: page
+title: Notes
+permalink: /RelationalDatabase/BuildFivePrograms/notes.md
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Learning Bash
 
 - To run a bash script: `sh script.sh` or `bash script.sh`
@@ -279,3 +287,5 @@ This script will run all the previous scripts.
 ./bingo.sh
 ./fortune.sh
 ```
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

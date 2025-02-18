@@ -4,6 +4,8 @@ title: Full Stack Developer
 permalink: /FullStackDeveloper/
 ---
 
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 A collection of all the **Full Stack Developer projects I completed for the freeCodeCamp Full Stack Developer certification**. Mastering _front-end_ (HTML, CSS, JavaScript, React, TypeScript) and _back-end_ (Git, Npm, Node.js, Python, databases) technologies to build scalable web applications.
 Covers all the essential technologies required to build modern, scalable web applications from start to finish.
 

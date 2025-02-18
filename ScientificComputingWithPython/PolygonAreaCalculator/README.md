@@ -1,3 +1,11 @@
+---
+layout: page
+title: Polygon Area Calculator
+permalink: /ScientificComputingWithPython/PolygonAreaCalculator/
+---
+
+<p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
+
 # Build a Polygon Area Calculator Project
 
 In this project you will use object oriented programming to create a `Rectangle` class and a `Square` class. The `Square` class should be a subclass of `Rectangle`, and inherit its methods and attributes.
@@ -110,3 +118,5 @@ Note: open the browser console with F12 to see a more verbose output of the test
 19\. `Rectangle(4,8).get_amount_inside(Rectangle(3, 6))` should return `1`.
 
 20\. `Rectangle(2,3).get_amount_inside(Rectangle(3, 6))` should return `0`.
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

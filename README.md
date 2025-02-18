@@ -1,4 +1,7 @@
-<div id="top"></div>
+---
+layout: page
+permalink: /./
+---
 
 # FreeCodeCamp Certification Projects
 
@@ -15,11 +18,11 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### Relational Database 2025 ( in progress)
 
-- [Celestial Bodies Database](./RelationalDatabase/CelestialBodiesDatabase/README.md)
-- [World Cup Database](./RelationalDatabase/WorldCupDatabase/README.md)
-- [Salon Appointment Scheduler]()
-- [Periodic Table Database]()
-- [Number Guessing Game]()
+- [Celestial Bodies Database](./RelationalDatabase/CelestialBodiesDatabase/)
+- [World Cup Database](./RelationalDatabase/WorldCupDatabase/)
+- [Salon Appointment Scheduler](./RelationalDatabase/SalonAppointmentScheduler/)
+- [Periodic Table Database](./RelationalDatabase/PeriodicTableDatabase/)
+- [Number Guessing Game](./RelationalDatabase/NumberGuessingGame/)
 
 ### Full Stack Developer 2025 ( in progress)
 

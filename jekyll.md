@@ -1,0 +1,29 @@
+# Jekyll
+
+## My Favorite Jekyll Themes
+
+- [Cayman](https://pages-themes.github.io/cayman/) is a simple and very easy to use theme for GitHub Pages.
+  > `theme: jekyll-theme-cayman`
+- [Architect](https://pages-themes.github.io/architect/) is as easy as cayman.
+  > `theme: jekyll-theme-architect`
+- [Minima](https://github.com/jekyll/minima) is a minimalist theme for Jekyll. It is the `default theme for this repository`.
+  > `theme: minima`
+- [So Simple](https://github.com/mmistakes/so-simple-theme)
+  > `theme: so-simple-theme`
+
+## How to Use it locally
+
+> Visit my post on [How to use run jekyll locally](https://docs.jpdiaz.dev/posts/run-jekyll-localhost/) for more details.
+
+- Ensure you have Ruby, Bundler, and Jekyll installed. `gem install bundler jekyll`
+- Ensure you have a `_config.yml` and `Gemfile` files already configured (in the root of your project).
+- Update the bundle: `bundle update`
+- Run the server: `bundle exec jekyll serve`
+- Open your browser and navigate to `http://localhost:4000`
+- To build the site, run `bundle exec jekyll build`
+
+#### Run as Local with Auto-Reload
+
+```sh
+    bundle exec jekyll serve --livereload
+```
