@@ -65,3 +65,5 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 13\. When the `#number` element contains a number greater than 4000 and the `#convert-btn` element is clicked, the `#output` element should contain the text `"Please enter a number less than or equal to 3999"`.
 
 ### [Official Solution](https://github.com/FreeCodeCamp-Solutions/JavaScript-Algorithms-and-Data-Structures-Projects)
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

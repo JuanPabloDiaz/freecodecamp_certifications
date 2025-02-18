@@ -57,7 +57,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Arithmetic Formatter](./ScientificComputingWithPython/ArithmeticFormatter)
 - [Time Calculator](./ScientificComputingWithPython/TimeCalculator)
 - [Budget App](./ScientificComputingWithPython/BudgetApp)
-- [Polygon Area Calculator](./ScientificComputingwithPython/PolygonAreaCalculator)
+- [Polygon Area Calculator](./ScientificComputingWithPython/PolygonAreaCalculator)
 - [Probability Calculator](./ScientificComputingWithPython/ProbabilityCalculator)
 
 ### JavaScript Algorithms and Data Structures

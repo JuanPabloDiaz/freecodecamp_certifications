@@ -69,3 +69,5 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 19\. When the `#text-input` element contains a random sequence of alphanumeric characters that is not a palindrome, the `#result` element should say it is not a palindrome.
 
 ### [Official Solution](https://github.com/FreeCodeCamp-Solutions/JavaScript-Algorithms-and-Data-Structures-Projects)
+
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>
