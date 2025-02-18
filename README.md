@@ -16,8 +16,8 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 ### Relational Database 2025 ( in progress)
 
 - [Celestial Bodies Database](./RelationalDatabase/CelestialBodiesDatabase/README.md)
-- [World Cup Database]()
-- [Salon Appointment Scheduler]()
+- [World Cup Database](./RelationalDatabase/WorldCupDatabase/README.md)
+- [Salon Appointment Scheduler](
 - [Periodic Table Database]()
 - [Number Guessing Game]()
 
@@ -25,11 +25,11 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 - [HTML](./FullStackDeveloper/Html/)
 - [CSS](./FullStackDeveloper/Css/)
-- [JavaScript]()
-- [Front End Libraries]()
-- [Relational Database]()
-- [Backend javascript]()
-- [Python]()
+- [JavaScript](./FullStackDeveloper/JavaScript/)
+- [Front End Libraries](./FullStackDeveloper/FrontEndLibraries/)
+- [Relational Database](./FullStackDeveloper/RelationalDatabase/)
+- [Backend javascript](./FullStackDeveloper/BackendJavaScript/)
+- [Python](./FullStackDeveloper/Python/)
 
 <!-- ### Data Analysis with Python
 - [Mean-Variance-Standard Deviation Calculator](./DataAnalysiswithPython)

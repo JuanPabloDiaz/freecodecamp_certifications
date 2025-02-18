@@ -1,6 +1,10 @@
-# CSS Projects
+---
+layout: page
+title: CSS
+permalink: /FullStackDeveloper/Css/
+---
 
-Here is a list of all the projects completed for the CSS section of the Full Stack Developer certification. Each project is linked to its respective folder containing the source code and any additional files.
+This page is a collection of all the **CSS projects** completed for the CSS section of the Full Stack Developer certification on freeCodeCamp.
 
 - [Animated Ferris Wheel](./AnimatedFerrisWheel)
 - [Availability Table](./AvailabilityTable)
