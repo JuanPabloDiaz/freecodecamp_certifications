@@ -3,6 +3,8 @@
 title: FCC Certification Projects | Juan Diaz
 author: Juan Pablo Diaz
 email: contact@jpdiaz.dev
+baseurl: ""
+url: ""
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -21,7 +23,6 @@ theme: minima
 # - jekyll-seo-tag
 # - jekyll-avatar
 # - jekyll-redirect-from
-# - jekyll-paginate
 # - tag-page-generator
 # - jekyll-minifier
 # - jekyll-remote-include
@@ -35,9 +36,9 @@ header_pages:
   - FullStackDeveloper/README.md
   - LegacyJavaScriptAlgorithmsAndDataStructures/JsAlgorithmsAndData.md
 
-  # - FullStackDeveloper/Html/README.md
-  # - FullStackDeveloper/Css/README.md
-  # - FullStackDeveloper/Js/README.md
+# - FullStackDeveloper/Html/README.md
+# - FullStackDeveloper/Css/README.md
+# - FullStackDeveloper/Js/README.md
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -63,17 +64,10 @@ minima:
 twitter_username: JuanDiaz_427
 github_username: juanPabloDiaz
 linkedin_username: 1diazdev
-# youtube_username: jekyll
-
-# generate social links in footer
-# social_links:
-#   github: juanPabloDiaz
-#   linkedin: 1diazdev
-#   twitter: JuanDiaz_427
-
 # Exclude directories containing Node.js/JavaScript projects from the build
 # exclude:
 #   - FullStackDeveloper/FrontEndLibraries/ReactFundamentals/
 #   - LegacyJavaScriptAlgorithmsAndDataStructures/
 #   - JavaScriptAlgorithmsAndDataStructures/
 # ... any other directories containing Node.js/JavaScript projects
+

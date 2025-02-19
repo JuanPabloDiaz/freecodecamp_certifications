@@ -1,0 +1,26 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Juan Diaz",
+  "description": "A project created by Juan Diaz on feb 19 2025 for the Managing Packages with npm challenges on FreeCodeCamp",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "challenge",
+    "learn",
+    "juan",
+    "diaz"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
+}
