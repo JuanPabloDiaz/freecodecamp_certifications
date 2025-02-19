@@ -6,7 +6,9 @@ permalink: /BackEndDevelopmentAndAPIs/Course/ManagingPackagesWithNPM/
 
 <p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>
 
-This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
+This is the boilerplate code for the Managing Packages With npm Challenges. [Click here](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/) to view the instructions for working on these challenges on **freeCodeCamp**.
+
+### Challenge
 
 1. Add your `name` as the author of the project in the `package.json` file.
 2. Add a `description` to the `package.json` file.
@@ -33,9 +35,21 @@ This is the boilerplate code for the Managing Packages With npm Challenges. Inst
   "license": "MIT",
   "version": "1.0.0",
   "dependencies": {
-    "@freecodecamp/example": "^1.2.13"
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   }
 }
 ```
+
+- View the [package.json](https://github.com/JuanPabloDiaz/freecodecamp_certifications/blob/main/BackEndDevelopmentAndAPIs/Course/ManagingPackagesWithNPM/package.json) in my repository.
+
+- Live link of the [package.json](https://juanpablodiaz.github.io/freecodecamp_certifications/BackEndDevelopmentAndAPIs/Course/ManagingPackagesWithNPM/package.json)
 
 <p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>
