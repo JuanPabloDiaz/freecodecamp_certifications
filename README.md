@@ -1,22 +1,27 @@
 ---
 layout: page
+title: FreeCodeCamp Certification Projects
 permalink: /./
 ---
 
-# FreeCodeCamp Certification Projects
+<!-- # FreeCodeCamp Certification Projects -->
 
-This repository contains all the projects completed to earn freeCodeCamp certifications. Each folder corresponds to a specific certification and includes a link to the related project repos.
+This repository contains all the projects completed to earn **freeCodeCamp certifications**. Each folder corresponds to a specific certification and includes a link to the related project repos.
 
 ## Certifications
 
-|                                                                                                                                               |                                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![responsiveWebDesign](./certifications/responsiveWebDesign.png)](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design) | [![frontEndDevLibraries](./certifications/frontEndDevLibraries.png)](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries)                       |
-| [![legacyFrontEnd](./certifications/legacyFrontEnd.png)](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end)                | [![scientificComputingWithPython](./certifications/scientificComputingWithPython.png)](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7) |
+<!--
+ [![LegacyJavaScriptAlgorithmsAndDataStructures](./certifications/LegacyJavaScriptAlgorithmsAndDataStructures.png)]()
+              -->
+
+| --- | --- |
+| [![JavaScriptAlgorithmsAndDataStructures](./certifications/JavaScriptAlgorithmsAndDataStructures.png)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8) | [![JavaScriptAlgorithmsAndDataStructures](./certifications/JavaScriptAlgorithmsAndDataStructures.png)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8) |
+| [![scientificComputingWithPython](./certifications/scientificComputingWithPython.png)](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7) | [![legacyFrontEnd](./certifications/legacyFrontEnd.png)](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end) |
+| [![frontEndDevLibraries](./certifications/frontEndDevLibraries.png)](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries) | [![responsiveWebDesign](./certifications/responsiveWebDesign.png)](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design) |
 
 ---
 
-### Relational Database 2025 ( in progress)
+### Relational Database 2025 (in progress)
 
 - [Celestial Bodies Database](./RelationalDatabase/CelestialBodiesDatabase/)
 - [World Cup Database](./RelationalDatabase/WorldCupDatabase/)
@@ -24,7 +29,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Periodic Table Database](./RelationalDatabase/PeriodicTableDatabase/)
 - [Number Guessing Game](./RelationalDatabase/NumberGuessingGame/)
 
-### Full Stack Developer 2025 ( in progress)
+### Full Stack Developer 2025 (in progress)
 
 - [HTML](./FullStackDeveloper/Html/)
 - [CSS](./FullStackDeveloper/Css/)
@@ -34,19 +39,20 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Backend javascript](./FullStackDeveloper/BackendJavaScript/)
 - [Python](./FullStackDeveloper/Python/)
 
-<!-- ### Data Analysis with Python
-- [Mean-Variance-Standard Deviation Calculator](./DataAnalysiswithPython)
-- [Demo graphic Data Analyzer](./DataAnalysiswithPython)
-- [Medical Data Visualizer](./DataAnalysiswithPython)
-- [Page View Time Series Visualizer](./DataAnalysiswithPython)
-- [Sea Level Predictor](./DataAnalysiswithPython) -->
+### Back End Development and APIs 2025 (in progress)
 
-<!-- ### Machine Learning with Python
-- [Rock Paper Scissors](./MachineLearningwithPython)
-- [Cat and Dog Image Classifier](./MachineLearningwithPython)
-- [Book Recommendation Engine using KNN](./MachineLearningwithPython)
-- [Linear Regression Health Costs Calculator](./MachineLearningwithPython)
-- [Neural Network SMS Text Classifier](./MachineLearningwithPython) -->
+- Course:
+
+  1. [Managing Packages with Npm](./BackEndDevelopmentAndAPIs/Course/ManagingPackagesWithNpm/)
+  2. [Basic Node and Express](./BackEndDevelopmentAndAPIs/Course/BasicNodeAndExpress/)
+  3. [MongoDB and Mongoose](./BackEndDevelopmentAndAPIs/Course/MongoDBAndMongoose/)
+
+- Projects:
+  - [Timestamp Microservice](./BackEndDevelopmentAndAPIs/TimestampMicroservice/)
+  - [Request Header Parser Microservice](./BackEndDevelopmentAndAPIs/RequestHeaderParserMicroservice/)
+  - [URL Shortener Microservice](./BackEndDevelopmentAndAPIs/URLShortenerMicroservice/)
+  - [Exercise Tracker](./BackEndDevelopmentAndAPIs/ExerciseTracker/)
+  - [File Metadata Microservice](./BackEndDevelopmentAndAPIs/FileMetadataMicroservice/)
 
 ### Scientific Computing with Python
 
@@ -62,7 +68,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 
 ### JavaScript Algorithms and Data Structures
 
-[![Certified](https://img.shields.io/badge/freeCodeCamp_Certified_in_2025-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)]()
+[![Certified](https://img.shields.io/badge/freeCodeCamp_Certified_in_2025-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8)
 
 - [Build a Palindrome Checker](./JavaScriptAlgorithmsAndDataStructures/PalindromeChecker)
 - [Build a Roman Numeral Converter](./JavaScriptAlgorithmsAndDataStructures/RomanNumeralConverter)

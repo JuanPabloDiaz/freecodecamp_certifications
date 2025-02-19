@@ -10,6 +10,13 @@
   > `theme: minima`
 - [So Simple](https://github.com/mmistakes/so-simple-theme)
   > `theme: so-simple-theme`
+- [Hyde](https://github.com/poole/hyde)
+
+### References:
+
+- [northernbug.github.io](https://github.com/NorthernBUG/northernbug.github.io)
+- [rakaar.github.io](https://rakaar.github.io)
+- [rafibayer.com](https://github.com/rafibayer/rafibayer.github.io)
 
 ## How to Use it locally
 
