@@ -15,7 +15,7 @@ This repository contains all the projects completed to earn **freeCodeCamp certi
               -->
 
 | --- | --- |
-| [![JavaScriptAlgorithmsAndDataStructures](./certifications/JavaScriptAlgorithmsAndDataStructures.png)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8) | [![JavaScriptAlgorithmsAndDataStructures](./certifications/JavaScriptAlgorithmsAndDataStructures.png)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8) |
+| [![JavaScriptAlgorithmsAndDataStructures](./certifications/javaScriptAlgorithmsAndDataStructures.png)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8) | [![JavaScriptAlgorithmsAndDataStructures](./certifications/javaScriptAlgorithmsAndDataStructures.png)](https://www.freecodecamp.org/certification/1diazdev/javascript-algorithms-and-data-structures-v8) |
 | [![scientificComputingWithPython](./certifications/scientificComputingWithPython.png)](https://www.freecodecamp.org/certification/1diazdev/scientific-computing-with-python-v7) | [![legacyFrontEnd](./certifications/legacyFrontEnd.png)](https://www.freecodecamp.org/certification/1diazdev/legacy-front-end) |
 | [![frontEndDevLibraries](./certifications/frontEndDevLibraries.png)](https://www.freecodecamp.org/certification/1diazdev/front-end-development-libraries) | [![responsiveWebDesign](./certifications/responsiveWebDesign.png)](https://www.freecodecamp.org/certification/1diazdev/responsive-web-design) |
 
@@ -36,14 +36,14 @@ This repository contains all the projects completed to earn **freeCodeCamp certi
 - [JavaScript](./FullStackDeveloper/Js/)
 - [Front End Libraries](./FullStackDeveloper/FrontEndLibraries/)
 - [Relational Database](./FullStackDeveloper/RelationalDatabase/)
-- [Backend javascript](./FullStackDeveloper/BackendJavaScript/)
+- [Backend Javascript](./FullStackDeveloper/BackendJavaScript/)
 - [Python](./FullStackDeveloper/Python/)
 
 ### Back End Development and APIs 2025 (in progress)
 
 - Course:
 
-  1. [Managing Packages with Npm](./BackEndDevelopmentAndAPIs/Course/ManagingPackagesWithNpm/)
+  1. [Managing Packages with Npm](./BackEndDevelopmentAndAPIs/Course/ManagingPackagesWithNPM/)
   2. [Basic Node and Express](./BackEndDevelopmentAndAPIs/Course/BasicNodeAndExpress/)
   3. [MongoDB and Mongoose](./BackEndDevelopmentAndAPIs/Course/MongoDBAndMongoose/)
 

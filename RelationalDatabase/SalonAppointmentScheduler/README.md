@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Timestamp Microservice
-permalink: /BackEndDevelopmentAndAPIs/TimestampMicroservice/
+title: Salon Appointment Scheduler
+permalink: /RelationalDatabase/SalonAppointmentScheduler/
 ---
 
 <p  align="right"><a href="#" onclick="history.back(); return false;">Previous Page</a></p>

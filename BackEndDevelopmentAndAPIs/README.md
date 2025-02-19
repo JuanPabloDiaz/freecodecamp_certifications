@@ -10,7 +10,7 @@ A collection of all the **Back End** projects I have completed to earn the **Bac
 
 ### Course:
 
-1. [Managing Packages with Npm](./Course/ManagingPackagesWithNpm/)
+1. [Managing Packages with Npm](./Course/ManagingPackagesWithNPM/)
 2. [Basic Node and Express](./Course/BasicNodeAndExpress/)
 3. [MongoDB and Mongoose](./Course/MongoDBAndMongoose/)
 
