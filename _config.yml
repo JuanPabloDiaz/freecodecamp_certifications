@@ -3,8 +3,8 @@
 title: FCC Certification Projects | Juan Diaz
 author: Juan Pablo Diaz
 email: contact@jpdiaz.dev
-baseurl: ""
-url: ""
+# baseurl: ""
+# url: ""
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
