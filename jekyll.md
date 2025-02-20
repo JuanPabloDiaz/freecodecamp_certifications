@@ -18,6 +18,11 @@
 - [rakaar.github.io](https://rakaar.github.io)
 - [rafibayer.com](https://github.com/rafibayer/rafibayer.github.io)
 
+Architect:
+
+- https://github.com/incyi/incyi.github.io
+- https://github.com/NicoJanE/APP-X11-Forward-win32-Development-Template-Stack
+
 ## How to Use it locally
 
 > Visit my post on [How to use run jekyll locally](https://docs.jpdiaz.dev/posts/run-jekyll-localhost/) for more details.

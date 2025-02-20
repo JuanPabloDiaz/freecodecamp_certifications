@@ -168,7 +168,7 @@ This is the boilerplate code for the Basic Node and Express Challenges. [Click h
     );
     ```
 
-- View the entire [myApp.js]() file in my repository.
+- View the entire [myApp.js](https://github.com/JuanPabloDiaz/freecodecamp_certifications/blob/main/BackEndDevelopmentAndAPIs/Course/BasicNodeAndExpress/myApp.js) file in my repository.
 
 - Live link of the [myApp.js](https://juanpablodiaz.github.io/freecodecamp_certifications/BackEndDevelopmentAndAPIs/Course/BasicNodeAndExpress/myApp.js) or [myApp.js](./myApp.js)
 
