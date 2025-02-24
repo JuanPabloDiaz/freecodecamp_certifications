@@ -119,4 +119,8 @@ Note: open the browser console with F12 to see a more verbose output of the test
 
 20\. `Rectangle(2,3).get_amount_inside(Rectangle(3, 6))` should return `0`.
 
+## Solution:
+
+Download the [Polygon Area Calculator](./PolygonAreaCalculator_project.ipynb) notebook.
+
 <p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

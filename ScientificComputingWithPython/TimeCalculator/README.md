@@ -72,4 +72,8 @@ Note: open the browser console with F12 to see a more verbose output of the test
 
 12\. Calling `add_time('8:16 PM', '466:02', 'tuesday')` should return `'6:18 AM, Monday (20 days later)'`.
 
+## Solution:
+
+Download the [Time Calculator](./TimeCalculator_project.ipynb) notebook.
+
 <p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

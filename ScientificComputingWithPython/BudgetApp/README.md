@@ -129,4 +129,8 @@ Note: open the browser console with F12 to see a more verbose output of the test
 
 24\. `create_spend_chart` should print a different chart representation. Check that all spacing is exact. Open your browser console with F12 for more details.
 
+## Solution
+
+Download the [Budget App](./BudgetAppFinal.ipynb) notebook.
+
 <p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

@@ -88,4 +88,8 @@ Note: open the browser console with F12 to see a more verbose output of the test
 
 10\. `arithmetic_arranger(["32 - 698", "1 - 3801", "45 + 43", "123 + 49", "988 + 40"], True)` should return `32 1 45 123 988\n- 698 - 3801 + 43 + 49 + 40\n----- ------ ---- ----- -----\n -666 -3800 88 172 1028`.
 
+## Solution:
+
+Download the [Arithmetic Formatter](./ArithmeticFormatter_project.ipynb) notebook.
+
 <p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>

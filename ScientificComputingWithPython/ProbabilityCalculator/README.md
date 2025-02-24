@@ -67,4 +67,8 @@ Note: open the browser console with F12 to see a more verbose output of the test
 
 4\. The `experiment` method should return a different probability.
 
+## Solution:
+
+Download the [Probability Calculator](./ProbabilityCalculator_project.ipynb) notebook.
+
 <p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>
