@@ -16,6 +16,7 @@ Here is a list of all the **JavaScript Projects** completed for the Full Stack D
 4. [Calculator.js](./Workshop/Calculator.js)
 5. [LoanQualificationChecker.js](./Workshop/LoanQualificationChecker.js)
 6. [ShoppingList.js](./Workshop/ShoppingList.js)
+7. [RecipeTracker.js](./Workshop/RecipeTracker.js)
 
 ### Labs
 
@@ -24,6 +25,7 @@ Here is a list of all the **JavaScript Projects** completed for the Full Stack D
 3. [EmailMarker.js](./Lab/EmailMarker.js)
 4. [FortuneTeller.js](./Lab/FortuneTeller.js)
 5. [LeapYearCalculator.js](./Lab/LeapYearCalculator.js)
+6. [LunchPicker.js](./Lab/LunchPicker.js)
 
 ### Project
 
